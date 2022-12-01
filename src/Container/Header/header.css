@@ -8,6 +8,7 @@
     align-items: flex-start;
     flex-direction: column;
     margin-right: 5rem;
+    z-index: 1;
 }
 .gpt3__header-content h1{
     font-family: var(--font-family);
@@ -68,6 +69,7 @@
     justify-content: flex-start;
     align-items: center;
     margin-top: 2rem;
+    
 }
 .gpt3__header-content__people img{
     width: 181.79px;

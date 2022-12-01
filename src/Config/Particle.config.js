@@ -53,7 +53,7 @@ function Particle() {
                         color: "#ffffff",
                         distance: 150,
                         enable: true,
-                        opacity: 0.5,
+                        opacity: 0.2,
                         width: 1,
                     },
                     collisions: {
@@ -66,7 +66,7 @@ function Particle() {
                             default: "bounce",
                         },
                         random: false,
-                        speed: 6,
+                        speed: 3,
                         straight: false,
                     },
                     number: {
